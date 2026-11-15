@@ -4,11 +4,11 @@
 
 ### Full-stack developer building polished products with thoughtful UX
 
-<a href="https://github.com/aliabbasi-sketch?tab=repositories">
+<a href="https://github.com/Ali-Abbasi-Swdev?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
 </a>
-<a href="https://github.com/aliabbasi-sketch?tab=followers">
-  <img src="https://img.shields.io/github/followers/aliabbasi-sketch?style=for-the-badge&color=7c3aed&labelColor=111827" alt="GitHub followers" />
+<a href="https://github.com/Ali-Abbasi-Swdev?tab=followers">
+  <img src="https://img.shields.io/github/followers/Ali-Abbasi-Swdev?style=for-the-badge&color=7c3aed&labelColor=111827" alt="GitHub followers" />
 </a>
 
 </div>
@@ -39,36 +39,36 @@ I'm a developer who enjoys turning ideas into reliable, polished products. I car
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aliabbasi-sketch/Imagis">
-        <img src="https://raw.githubusercontent.com/aliabbasi-sketch/Imagis/main/public/Imagis_Preview_Image.png" alt="Imagis preview" width="100%" />
+      <a href="https://github.com/Ali-Abbasi-Swdev/Imagis">
+        <img src="https://raw.githubusercontent.com/Ali-Abbasi-Swdev/Imagis/main/public/Imagis_Preview_Image.png" alt="Imagis preview" width="100%" />
       </a>
-      <h3><a href="https://github.com/aliabbasi-sketch/Imagis">🎨 Imagis</a></h3>
+      <h3><a href="https://github.com/Ali-Abbasi-Swdev/Imagis">🎨 Imagis</a></h3>
       <p>AI image restyling studio for transforming portraits and scenes into curated visual styles.</p>
       <sub>Next.js · TypeScript · OpenAI · PostgreSQL</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aliabbasi-sketch/Codemon">
-        <img src="https://raw.githubusercontent.com/aliabbasi-sketch/Codemon/main/public/Codemon_Preview_Image.png" alt="Codemon preview" width="100%" />
+      <a href="https://github.com/Ali-Abbasi-Swdev/Codemon">
+        <img src="https://raw.githubusercontent.com/Ali-Abbasi-Swdev/Codemon/main/public/Codemon_Preview_Image.png" alt="Codemon preview" width="100%" />
       </a>
-      <h3><a href="https://github.com/aliabbasi-sketch/Codemon">💻 Codemon</a></h3>
+      <h3><a href="https://github.com/Ali-Abbasi-Swdev/Codemon">💻 Codemon</a></h3>
       <p>Online IDE and snippet-sharing platform for writing, running, and sharing code.</p>
       <sub>Next.js · TypeScript · Convex · Clerk</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aliabbasi-sketch/Gosip">
-        <img src="https://raw.githubusercontent.com/aliabbasi-sketch/Gosip/master/frontend/public/Gosip_Preview_Image.png" alt="Gosip preview" width="100%" />
+      <a href="https://github.com/Ali-Abbasi-Swdev/Gosip">
+        <img src="https://raw.githubusercontent.com/Ali-Abbasi-Swdev/Gosip/master/frontend/public/Gosip_Preview_Image.png" alt="Gosip preview" width="100%" />
       </a>
-      <h3><a href="https://github.com/aliabbasi-sketch/Gosip">💬 Gosip</a></h3>
+      <h3><a href="https://github.com/Ali-Abbasi-Swdev/Gosip">💬 Gosip</a></h3>
       <p>Real-time messaging app designed for seamless conversations and a polished chat experience.</p>
       <sub>React · Vite · Node.js · Socket-based real-time features</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aliabbasi-sketch/NexaMart">
-        <img src="https://raw.githubusercontent.com/aliabbasi-sketch/NexaMart/main/frontend/public/HexaMart_Preview_Image.png" alt="NexaMart preview" width="100%" />
+      <a href="https://github.com/Ali-Abbasi-Swdev/NexaMart">
+        <img src="https://raw.githubusercontent.com/Ali-Abbasi-Swdev/NexaMart/main/frontend/public/HexaMart_Preview_Image.png" alt="NexaMart preview" width="100%" />
       </a>
-      <h3><a href="https://github.com/aliabbasi-sketch/NexaMart">🛒 NexaMart</a></h3>
+      <h3><a href="https://github.com/Ali-Abbasi-Swdev/NexaMart">🛒 NexaMart</a></h3>
       <p>Full-stack commerce platform for storefront operations, support, and product management.</p>
       <sub>React · Express · PostgreSQL · Stream</sub>
     </td>
@@ -76,24 +76,24 @@ I'm a developer who enjoys turning ideas into reliable, polished products. I car
 </table>
 
 <p align="center">
-  <a href="https://github.com/aliabbasi-sketch?tab=repositories"><strong>View all repositories →</strong></a>
+  <a href="https://github.com/Ali-Abbasi-Swdev?tab=repositories"><strong>View all repositories →</strong></a>
 </p>
 
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliabbasi-sketch&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7c3aed&icon_color=7c3aed" alt="Ali's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasi-sketch&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ali-Abbasi-Swdev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=7c3aed&icon_color=7c3aed" alt="Ali's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Abbasi-Swdev&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliabbasi-sketch&hide_border=true&theme=transparent&ring=7c3aed&fire=f97316&currStreakLabel=7c3aed" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Abbasi-Swdev&hide_border=true&theme=transparent&ring=7c3aed&fire=f97316&currStreakLabel=7c3aed" alt="GitHub contribution streak" />
 </p>
 
 ## Let's connect
 
 <p>
-  <a href="https://github.com/aliabbasi-sketch"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Ali-Abbasi-Swdev"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:ali.abbasi.swdev@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
